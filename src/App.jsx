@@ -1,8 +1,8 @@
 import React from 'react'
 import Navbar from './components/Navbar/Navbar'
 import {  Routes, Route } from 'react-router-dom'
-import Clients from './page/Clients/Clients'
-import Home from './page/Home/Home'
+import Clients from './Page/Clients/Clients'
+import Home from './Page/Home/Home'
 
 
 const App = () => {
